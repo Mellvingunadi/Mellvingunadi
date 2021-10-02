@@ -3,7 +3,7 @@ I'm new at Github also A beginner in Code and Programming.
   I'm interest in Front end side and UI/UX design.
    Also I'm still learning in Javascript,Python,Html and CSS.
    I hope can learn many as possible.
- Contact me at my socia media and let's be friends!:
+ Contact me at my social media and let's be friends!:
     -Instagram: @hong_giee
     -Email: mellvingunadi@gmail.com
 
